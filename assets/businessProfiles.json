@@ -1,0 +1,64 @@
+{
+    "BusinessUsers" : [
+      {
+        "id" : 0,
+        "name" : "Amulya Gavare",
+        "location" : "Mumbai",
+        "distance" : "100",
+        "purpose" : [
+          "coffee",
+          "Business",
+          "Friendship"
+        ],
+        "status" : "Hello peoples"
+      },
+      {
+        "id" : 1,
+        "name" : "Smith Gavare",
+        "location" : "Mumbai",
+        "distance" : "100",
+        "purpose" : [
+          "coffee",
+          "Business",
+          "Friendship"
+        ],
+        "status" : "Hi"
+      },
+      {
+        "id" : 2,
+        "name" : "Pradnil Khamkar",
+        "location" : "Pandharpur",
+        "distance" : "200",
+        "purpose" : [
+          "coffee",
+          "Business",
+          "Friendship"
+        ],
+        "status" : "Hey"
+      },
+      {
+        "id" : 3,
+        "name" : "Omkar karande",
+        "location" : "Latur",
+        "distance" : "300",
+        "purpose" : [
+          "coffee",
+          "Business",
+          "Friendship"
+        ],
+        "status" : "Hey peoples"
+      },
+      {
+        "id" : 4,
+        "name" : "Kaustubh Karande",
+        "location" : "Nashik",
+        "distance" : "200",
+        "purpose" : [
+          "coffee",
+          "Business",
+          "Friendship"
+        ],
+        "status" : "I am kaustubh"
+      }
+    ]
+  }

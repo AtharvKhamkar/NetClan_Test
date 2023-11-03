@@ -1,0 +1,124 @@
+{
+  "users" : [
+    {
+      "id" : 0,
+      "name" : "Atharv Khamkar",
+      "location" : "Pune",
+      "distance" : "200",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hi community,I am Atharv."
+    },
+    {
+      "id" : 1,
+      "name" : "Aditya Khamkar",
+      "location" : "Pimpri Chinchwad",
+      "distance" : "10",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hi community,I am Aditya."
+    },
+    {
+      "id" : 2,
+      "name" : "Ruturaj Savakare",
+      "location" : "Jalgoan",
+      "distance" : "400",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hey guys!!"
+    },
+    {
+      "id" : 3,
+      "name" : "kalpesh Patil",
+      "location" : "Jamner",
+      "distance" : "350",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hello buddies."
+    },
+    {
+      "id" : 4,
+      "name" : "Jayesh chaudhari",
+      "location" : "Dhule",
+      "distance" : "550",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Just relaxing."
+    },
+    {
+      "id" : 5,
+      "name" : "Amulya Gavare",
+      "location" : "Mumbai",
+      "distance" : "120",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hey I am just using Netclan."
+    },
+    {
+      "id" : 6,
+      "name" : "Smit Gavare",
+      "location" : "Mumbai",
+      "distance" : "120",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hello friends!!"
+    },
+    {
+      "id" : 7,
+      "name" : "Omkar Karande",
+      "location" : "Nashik",
+      "distance" : "200",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hello I am Omkar!!"
+    },
+    {
+      "id" : 8,
+      "name" : "Kaustub Karande",
+      "location" : "Mumbai",
+      "distance" : "120",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "Hey!!"
+    },
+    {
+      "id" : 9,
+      "name" : "Nilesh Navale",
+      "location" : "Hadapsar",
+      "distance" : "12",
+      "purpose" : [
+        "coffee",
+        "Business",
+        "Friendship"
+      ],
+      "status" : "My name is Nilesh."
+    }
+  ]
+}
